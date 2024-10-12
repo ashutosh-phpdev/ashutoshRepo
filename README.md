@@ -1,3 +1,3 @@
 # ashutoshRepo
 This is Ashutosh Repo
-Author Ashutosh
+Author Ashutosh Soni
